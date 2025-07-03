@@ -54,7 +54,7 @@ This dashboard is ideal for:
 
 ## 📸 Preview
 
-> *(Add a screenshot or GIF of your dashboard here for maximum impact)*  
+ 
 > ![dashboard](https://github.com/user-attachments/assets/8144c009-0c7a-4e70-91fd-fa3ecfc63962)
 .
 
